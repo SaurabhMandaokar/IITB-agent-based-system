@@ -1,0 +1,7 @@
+Demo=>DemoFunction
+BasicMathOperation=>add_sub|mul_div
+Tool Path Optimiser=>Exhaustive_Optimal_Tool_Path_Search|Next_Best_Optimal_Tool_Path_Search
+Single Machine Sequencing=>SingleMechineSequencing
+Tool Condition Monitoring=>tool_wear_prediction_using_Desicion_tree
+Machine Condition Monitoring=>machine_condition_monitoring
+Single Machine Sequencing with Maintenance Consideration=>Single_Machine_Sequencing_Considering_Maintenace_Action

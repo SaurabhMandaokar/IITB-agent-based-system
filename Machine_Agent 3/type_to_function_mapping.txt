@@ -1,0 +1,11 @@
+request_to_add=>addition_function
+proposals_for_transport=>responce_to_proposals
+proposals_for_transport_cost=>responce_to_proposals
+cfp_for_transport=>transport_cost
+cfp_for_transport_cost=>transport_cost
+request_tool_path_optimization=>Tool Path Optimiser
+cfp_for_new_job_arrival=>Single Machine Sequencing with Maintenance Consideration
+cfp_for_job_of_failed_machine=>Single Machine Sequencing with Maintenance Consideration
+request_pi_change=>Single Machine Sequencing with Maintenance Consideration
+request_di_change=>Single Machine Sequencing with Maintenance Consideration
+accepted_job_proposal=>Single Machine Sequencing with Maintenance Consideration

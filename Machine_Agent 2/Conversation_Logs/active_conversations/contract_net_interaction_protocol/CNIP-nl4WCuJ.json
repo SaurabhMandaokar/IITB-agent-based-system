@@ -1,0 +1,1 @@
+{"call_for_proposal": [["2021-06-10 16:11:01.539397", {"protocol": "contract_net_interaction_protocol", "content": "[1,10]", "sender": "machine-Agent 2", "receiver": "['machine-Agent 2']", "performative": "call_for_proposal", "type": "cfp_for_transport", "conversation_id": "CNIP-nl4WCuJ"}]]}

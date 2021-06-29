@@ -1,0 +1,4 @@
+c_net_active=>0
+CBM=>0
+tool_wear_prediction_using_Desicion_tree=>0
+machine_condition_monitoring=>0

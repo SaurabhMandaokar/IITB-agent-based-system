@@ -1,0 +1,2 @@
+Single_Machine_Sequencing_Considering_Maintenace_Action=>Single Machine Sequencing->SingleMechineSequencing|Machine Condition Monitoring->machine_condition_monitoring
+tool_wear_prediction_using_Desicion_tree=>Single Machine Sequencing with Maintenance Consideration->Single_Machine_Sequencing_Considering_Maintenace_Action
